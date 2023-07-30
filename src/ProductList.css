@@ -1,0 +1,27 @@
+.product-list-container {
+    margin: 20px;
+  }
+  
+  .product-list {
+    list-style: none;
+    padding: 0;
+  }
+
+  h2 {
+    color: #333;
+    text-align: center;
+    text-decoration: double;
+  }
+  
+  .product-item {
+    background-color: #f0f0f0;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .product-item strong {
+    margin-right: 10px;
+  }
